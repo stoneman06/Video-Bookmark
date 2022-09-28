@@ -1,2 +1,3 @@
-#Video Bookmark
+# Video Bookmark
+
 A Chrome extension to store the timestamp of YouTube video
